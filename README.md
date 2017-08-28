@@ -1,6 +1,6 @@
 ## fis3+react+react-router+redux单页面应用实践
 
-基于 [fis3+react+redux+react-router](https://github.com/younth/fis3-react-redux-spa) 的单页面应用，目前应用在多个移动端业务线。
+基于 [fis3+react+redux+react-router](https://github.com/partytimex/fis3-react-redux-spa) 的单页面应用，目前应用在多个移动端业务线。
 
 ***注意：***
 
