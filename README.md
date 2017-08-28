@@ -1,4 +1,4 @@
-## react+react-router+redux 移动端SPA webpack版本
+## react+react-router+redux 移动端SPA webpack版本.
 
 ### 安装
 
