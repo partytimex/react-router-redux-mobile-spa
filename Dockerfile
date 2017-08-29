@@ -17,7 +17,7 @@ RUN npm i
 
 COPY . /usr/src/app
 
-ENV PORT 80
-EXPOSE 80
+ENV PORT 5008
+EXPOSE 5008
 
 CMD npm start
